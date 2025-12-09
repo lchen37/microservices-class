@@ -1,1 +1,3 @@
-This is my submission for assignment 1.
+Student name: Lu Chen
+Student email: lchen37@collin.edu
+"Getting ready to learn about containers"
